@@ -18,7 +18,7 @@ Player class that inherits the AbstractEntity class and also provides additional
 ### cardDeck.py
 Class for holding the card deck. The deck itself and the card values will be stored as class attributes.
 
-### blackjack_milestone2_v3
+### blackjack_milestone2_v3.py
 This is the entry point of the Blackjack program. This script controls the game play and has the logic for dealing cards, checking various states of the game such as bust or blackjack. It also keeps track of the winnings of the player. 
 
 ## Steps to running this code locally
