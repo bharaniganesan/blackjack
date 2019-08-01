@@ -3,7 +3,7 @@ This is a Python implementation of a blackjack game, which is the 2nd milestone 
 not implemented.
 
 ## High level code structure
-The code is structured in four files - dealer.py, player.py, cardDeck.py and blackjack_milestone2_v3.py
+The code is structured in these files - abstractEntity.py, dealer.py, player.py, cardDeck.py and blackjack_milestone2_v3.py
 
 ### abstractEntity.py
 Abstract entity class that provides the attributes and methods common to the Dealer and the Player.
